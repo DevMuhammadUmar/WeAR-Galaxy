@@ -1,6 +1,6 @@
 # weargalaxy
 
-<h3 align="center">WeAR Galaxy is an innovative mobile application designed to transform the eyewear shopping experience by leveraging the power of augmented reality (AR) and artificial intelligence (AI). The application allows users to virtually try on glasses in real-time, providing an immersive and interactive experience. By utilizing AI, the app offers personalized frame recommendations based on the user’s unique facial features, ensuring that each user receives suggestions tailored to their specific needs and preferences.</h3>
+<h3 align="center">WeAR Galaxy is an innovative mobile application designed to transform the eyewear shopping experience by leveraging the power of augmented reality (AR) and artificial intelligence (AI). The application allows users to virtually try on glasses in real-time, providing an immersive and interactive experience. By utilizing AI, the app offers personalized frame recommendations based on the user’s unique facial shape, ensuring that each user receives suggestions tailored to their specific needs and preferences.</h3>
 
 
 
