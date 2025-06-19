@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648415363598",
+    "project_id": "weargalaxy-683d5",
+    "storage_bucket": "weargalaxy-683d5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648415363598:android:16663027ca1ab18394725f",
+        "android_client_info": {
+          "package_name": "com.example.weargalaxy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiuXIk9DG2aXhf2EX6YUuj7w9e6IBJKf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
